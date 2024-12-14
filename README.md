@@ -2,6 +2,6 @@
 
 ## Fill
 
-<img src=".FILL.SCR.png"/>
+<img src="./FILL.SCR.png"/>
 
 
